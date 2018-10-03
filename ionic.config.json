@@ -1,0 +1,7 @@
+{
+  "name": "ionic-super",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
